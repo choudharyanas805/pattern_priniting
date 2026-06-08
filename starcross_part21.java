@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class starcross_part21 {
     static void main() {
-        // print
+        // print this is flouyd triangle not star cross
         /*
         1
         2 3
